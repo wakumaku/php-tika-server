@@ -1,6 +1,6 @@
 {
-  "name": "wakumaku/tika-server",
-  "description": "tika server",
+  "name": "wakumaku/php-tika-server",
+  "description": "tika server binary",
   "minimum-stability": "dev",
   "license": "to kill",
   "type": "library",
@@ -14,6 +14,6 @@
     "bin-dir": "bin"
   },
   "bin": [
-    "bin/tika-server"
+    "bin/tika-server.sh"
   ]
 }
