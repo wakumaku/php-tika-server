@@ -14,6 +14,6 @@
     "bin-dir": "bin"
   },
   "bin": [
-    "bin/tika-server.sh"
+    "bin/tika-server"
   ]
 }
