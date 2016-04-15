@@ -1,0 +1,19 @@
+{
+  "name": "wakumaku/tika-server",
+  "description": "tika server",
+  "minimum-stability": "dev",
+  "license": "to kill",
+  "type": "library",
+  "authors": [
+    {
+      "name": "wakumaku",
+      "email": "wakumaku@gmail.com"
+    }
+  ],
+  "config": {
+    "bin-dir": "bin"
+  },
+  "bin": [
+    "bin/tika-server"
+  ]
+}
